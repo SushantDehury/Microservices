@@ -1,0 +1,13 @@
+
+build:
+  version: 4.1
+
+cards:
+  message: "Welcome to sdbank cards related UAT APIS"
+  contactDetails:
+    name: "Sushanta Dehury-UAT"
+    email: "sushantaUAT@gmail.com"
+  onCallSupport:
+    - 3333333333
+    - 4444444444
+

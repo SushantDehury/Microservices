@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to sdbank accounts realted APIS in dev profile"
+  contactDetails:
+    name: "Deepti Dehury"
+    email: "deepti@gmail.com"
+  onCallSupport:
+      - 1111111111
+      - 2222222222
+

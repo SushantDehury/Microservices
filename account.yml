@@ -1,0 +1,13 @@
+
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to sdbank accounts realted local APIS"
+  contactDetails:
+    name: "Sushanta Dehury"
+    email: "sushanta@gmail.com"
+  onCallSupport:
+      - 1212121212
+      - 3434343434
+

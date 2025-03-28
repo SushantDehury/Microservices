@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to sdbank accounts realted APIS in prod profile"
+  contactDetails:
+    name: "mahadev Dehury - product onwer"
+    email: "mahadev@gmail.com - product onwer"
+  onCallSupport:
+    - 5555555555
+    - 6666666666

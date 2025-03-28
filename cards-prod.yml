@@ -1,0 +1,13 @@
+
+build:
+  version: 5.1
+
+cards:
+  message: "Welcome to sdbank cards related PROD APIS"
+  contactDetails:
+    name: "Sushanta Dehury-PROD"
+    email: "sushantaPROD@gmail.com"
+  onCallSupport:
+    - 9999999999
+    - 8888888888
+

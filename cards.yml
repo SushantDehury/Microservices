@@ -1,0 +1,12 @@
+
+build:
+  version: 2.1
+
+cards:
+  message: "Welcome to sdbank cards related local APIS"
+  contactDetails:
+    name: "Sushanta Dehury-local"
+    email: "sushantaLocal@gmail.com"
+  onCallSupport:
+    - 1111111111
+    - 2222222222

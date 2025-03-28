@@ -1,0 +1,13 @@
+
+build:
+  version: 2.1
+
+loans:
+  message: "Welcome to sdbank loans related DEV APIS"
+  contactDetails:
+    name: "Sushanta Dehury-DEV"
+    email: "sushantaDEV@gmail.com"
+  onCallSupport:
+    - 1111111111
+    - 2222222222
+

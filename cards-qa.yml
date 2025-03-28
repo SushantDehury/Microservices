@@ -1,0 +1,13 @@
+
+build:
+  version: 4.1
+
+cards:
+  message: "Welcome to sdbank cards related QA APIS"
+  contactDetails:
+    name: "Sushanta Dehury-QA"
+    email: "sushantaQA@gmail.com"
+  onCallSupport:
+    - 3333333333
+    - 4444444444
+
