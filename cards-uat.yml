@@ -6,7 +6,7 @@ cards:
   message: "Welcome to sdbank cards related UAT APIS"
   contactDetails:
     name: "Sushanta Dehury-UAT"
-    email: "sushantaUAT@gmail.com"
+    email: "{cipher}f7bea7b3f0f5b6d133ed000dd4f4be26317044aa672637e7023adc095f946a465578181e57087c8e88b375ac5ed27fb1"
   onCallSupport:
     - 3333333333
     - 4444444444
