@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to sdbank accounts realted APIS in QA(Quality Assurence) profile"
+  message: "Welcome to sdbank accounts realted APIS in QA with cloud bus(rabbitMQ) profile"
   contactDetails:
     name: "kalabati Dehury"
     email: "kalabati@gmail.com"
