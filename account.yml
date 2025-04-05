@@ -3,7 +3,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "Welcome to sdbank accounts realted local APIS"
+  message: "Welcome to sdbank accounts realted local rabbitmq message APIS"
   contactDetails:
     name: "Sushanta Dehury"
     email: "sushanta@gmail.com"
