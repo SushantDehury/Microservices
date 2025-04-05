@@ -3,7 +3,7 @@ build:
   version: 4.1
 
 loans:
-  message: "Welcome to sdbank loans related Local APIS"
+  message: "Welcome to sdbank loans related Local  rabbitMQ cloud messaging broke APIS"
   contactDetails:
     name: "Sushanta Dehury-Local"
     email: "sushantaLocal@gmail.com"
