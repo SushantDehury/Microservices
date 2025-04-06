@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to sdbank accounts realted APIS in prod profile"
+  message: "Welcome to sdbank accounts realted APIS in prod rabbitmq profile"
   contactDetails:
     name: "mahadev Dehury - product onwer"
     email: "mahadev@gmail.com - product onwer"
